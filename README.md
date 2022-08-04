@@ -34,7 +34,9 @@ usermod -a -G vidoe $LOGNAME
 reboot
 
 ## Results
+Screenshot
 
+![alt screenshot](screenshot1.png)
 
 
 ## References
