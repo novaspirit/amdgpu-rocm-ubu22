@@ -1,7 +1,8 @@
 # AMDGPU rocm opencl install for ubuntu 22.04
-## Installing amdgpu drivers for ubuntu to work with davinci resolve and blender
 
 [![Discord](https://img.shields.io/discord/316245914987528193?logo=discord)](https://discord.com/invite/v8dAnFV) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrjKdwxaQMSV_NDywgKXVmw) [![Twitter URL](https://img.shields.io/twitter/follow/novaspirittech?style=flat-square&logo=twitter)](https://twitter.com/novaspirittech)
+
+## Installing amdgpu drivers for ubuntu to work with davinci resolve and blender
 
 ## About
 Installing official [AMDGPU-pro 22.20](https://www.amd.com/en/support/kb/release-notes/rn-amdgpu-unified-linux-22-20) Drivers will fail complaining about dependancy, this repository includes modified rocm-llvm and rocm-gdb to bypass the depenencies needed and will allow the official drivers to properly install.
