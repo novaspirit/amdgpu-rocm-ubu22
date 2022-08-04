@@ -9,6 +9,10 @@ Installing official [AMDGPU-pro 22.20](https://www.amd.com/en/support/kb/release
 
 ## Tested
 
+### OS
+- Ubuntu 22.0.4.1
+
+### GPU
 - AMD VEGA 8
 
 ## Prequisists
