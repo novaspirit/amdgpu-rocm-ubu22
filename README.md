@@ -9,9 +9,13 @@ Installing official [AMDGPU-pro 22.20](https://www.amd.com/en/support/kb/release
 
 ## Tested
 
+### OS
+- Ubuntu 22.0.4.1
+
+### GPU
 - AMD VEGA 8
 
-## Prequisists
+## prerequisites
 
 - Ubuntu 22.04.1
 - [AMDGPU-pro 22.20](https://www.amd.com/en/support/kb/release-notes/rn-amdgpu-unified-linux-22-20)
@@ -34,8 +38,10 @@ usermod -a -G vidoe $LOGNAME
 reboot
 
 ## Results
+Screenshot
 
+![alt screenshot](screenshot1.png)
 
 
 ## References
-[https://github.com/RadeonOpenCompute/ROCm/issues/1713](https://github.com/RadeonOpenCompute/ROCm/issues/1713})
+[https://github.com/RadeonOpenCompute/ROCm/issues/1713](https://github.com/RadeonOpenCompute/ROCm/issues/1713#issuecomment-1193332549)
