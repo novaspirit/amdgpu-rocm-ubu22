@@ -44,4 +44,4 @@ Screenshot
 
 
 ## References
-[https://github.com/RadeonOpenCompute/ROCm/issues/1713](https://github.com/RadeonOpenCompute/ROCm/issues/1713})
+[https://github.com/RadeonOpenCompute/ROCm/issues/1713](https://github.com/RadeonOpenCompute/ROCm/issues/1713#issuecomment-1193332549)
