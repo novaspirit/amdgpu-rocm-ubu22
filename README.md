@@ -33,7 +33,7 @@ apt install ./rocm-gdb_11.2.50200-65_amd64.deb
 apt install ./amdgpu-install_22.20.50200-1_all.deb
 amdgpu-install --usecase=rocm
 usermod -a -G render $LOGNAME
-usermod -a -G vidoe $LOGNAME
+usermod -a -G video $LOGNAME
 ```
 reboot
 
