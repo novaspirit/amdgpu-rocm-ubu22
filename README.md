@@ -21,7 +21,11 @@ Installing official [AMDGPU-pro 22.20](https://www.amd.com/en/support/kb/release
 - [AMDGPU-pro 22.20](https://www.amd.com/en/support/kb/release-notes/rn-amdgpu-unified-linux-22-20)
 - libstdc++-10-dev
 - libgcc-10-dev
+```
+wget -q -O - https://repo.radeon.com/rocm/rocm.gpg.key | sudo apt-key add -
 
+echo 'deb [arch=amd64] https://repo.radeon.com/rocm/apt/5.2/ ubuntu main' | sudo tee /etc/apt/sources.list.d/rocm.list
+```
 ## Instructions
 Download the git repo
 ```sh
